@@ -26,8 +26,8 @@ Both of the notebook files consists of a Simple and Complex CNN model which diff
 
 ## Re-train model from scratch
 
-To re-train the whole model from scratch for the multi-class classifier, run all the cells in the multiclass_small_project_dataset_dataloader.ipynb file.
+To re-train the whole model from scratch for the multi-class classifier, clone this repository and run all the cells in the multiclass_small_project_dataset_dataloader.ipynb file.
 
-To re-train the whole model from scratch for the two stacked binary classifiers, run all the cells in the binary_small_project_dataset_dataloader.ipynb file.
+To re-train the whole model from scratch for the two stacked binary classifiers, clone this repository and run all the cells in the binary_small_project_dataset_dataloader.ipynb file.
 
 ## Recreate exact trained model
